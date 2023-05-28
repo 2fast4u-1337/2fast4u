@@ -4,11 +4,11 @@ Welcome to my github page.
 
 ## 🔭 Current
 
-I mainly to delevopement work on FiveM servers and DB management.
+I mainly do delevopement work on FiveM servers and DB management.
 
 ## ⚡️ Experience
 
-I focus mainly on back-end even though I have decent front-end knowledge. I started coding in lua 4 years ago and in C# 6 years ago.
+I focus mainly on back-end even though I have decent front-end knowledge. I started coding in lua 4 years ago and in C# 6 years ago. Decent database and VPS splitting. Linux enthousiast/fanboi 😂.
 
 ## 📫 Contact
 
