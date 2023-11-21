@@ -12,8 +12,8 @@ I mainly do delevopement work on FiveM servers and DB management.
 - Decent front-end knowledge.
   
 ● Languages
-- Lua : 4 years 
-- C# 6 years
+- Lua: 4 years 
+- C#: 6 years
 
 - I have extended database (MySQL, MSS) and VPS splitting knowledge. I'm also a linux enthousiast.
 
