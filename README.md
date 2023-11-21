@@ -8,7 +8,14 @@ I mainly do delevopement work on FiveM servers and DB management.
 
 ## ⚡️ Experience
 
-I focus mainly on back-end even though I have decent front-end knowledge. I started coding in lua 4 years ago and in C# 6 years ago. I have extended database (My SQL, MSS) and VPS splitting knowledge. I'm aslo a linux enthousiast.
+- Advanced back-end and network infrastructure knowledge.
+- Decent front-end knowledge.
+  
+● Languages
+- Lua : 4 years 
+- C# 6 years
+
+- I have extended database (MySQL, MSS) and VPS splitting knowledge. I'm also a linux enthousiast.
 
 ## 📫 Contact
 
